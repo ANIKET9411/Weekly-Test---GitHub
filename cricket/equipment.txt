@@ -1,0 +1,4 @@
+Helmet
+Ball
+Bat
+Stumps

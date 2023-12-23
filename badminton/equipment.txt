@@ -1,0 +1,5 @@
+shuttlecock
+rackets
+net
+shoes
+shirts
